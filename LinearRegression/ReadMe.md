@@ -1,5 +1,9 @@
-# Linear Regression
+# Linear Regression using PySpark
 
+# EDA
+
+Exploratory Data Analysis (EDA) is crucial for understanding our data before diving into model building. With PySpark, I was able to efficiently analyze key insights from our dataset.
+ 
 # Key steps in my project included:
 
 1] Data preprocessing: handling missing values, encoding categorical features, and feature scaling.
