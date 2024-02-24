@@ -28,4 +28,4 @@ Exploratory Data Analysis (EDA) is crucial for understanding our data before div
 
 2] Feature engineering: creating new features and selecting relevant ones for model training.
 
-3] Model training and evaluation: using PySpark's MLlib to build a Linear Regression model and evaluating its performance using metrics like RMSE and R-squared.
+3] Model training and evaluation: using PySpark's MLlib to build a Linear and RandomForest Regression model, and evaluating its performance using metrics like RMSE and R-squared.
